@@ -1,0 +1,39 @@
+@font-face {
+    font-family: GenYoGothic-B;
+    src: url(./fonts/GenYoGothic-B.ttc);
+}
+
+@font-face {
+    font-family: GenYoGothic-EL;
+    src: url(./fonts/GenYoGothic-EL.ttc);
+}
+
+@font-face {
+    font-family: GenYoGothic-H;
+    src: url(./fonts/GenYoGothic-H.ttc);
+}
+
+@font-face {
+    font-family: GenYoGothic-L;
+    src: url(./fonts/GenYoGothic-L.ttc);
+}
+
+@font-face {
+    font-family: GenYoGothic-M;
+    src: url(./fonts/GenYoGothic-M.ttc);
+}
+
+@font-face {
+    font-family: GenYoGothic-N;
+    src: url(./fonts/GenYoGothic-N.ttc);
+}
+
+@font-face {
+    font-family: GenYoGothic-R;
+    src: url(./fonts/GenYoGothic-R.ttc);
+}
+
+@font-face {
+    font-family: HelveticaNeue-B;
+    src: url(./fonts/HelveticaNeue-B.ttf);
+}

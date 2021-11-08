@@ -32408,7 +32408,7 @@
 	color: rgba(95,106,119,1);
 }
 #Text_cea {
-	left: 857.997px;
+	left: 853px;
 	top: 4047.965px;
 	position: absolute;
 	overflow: visible;
@@ -32422,7 +32422,7 @@
 	color: rgba(95,106,119,1);
 }
 #Text_ceb {
-	left: 772.503px;
+	left: 767px;
 	top: 4087.682px;
 	position: absolute;
 	overflow: visible;
@@ -33823,7 +33823,7 @@
 	letter-spacing: 0.5px;
 }
 #Text_chx {
-	left: 1363px;
+	left: 1373px;
 	top: 3443.609px;
 	position: absolute;
 	overflow: visible;
@@ -33838,7 +33838,7 @@
 	letter-spacing: 0.5px;
 }
 #Text_chy {
-	left: 1510px;
+	left: 1515px;
 	top: 3400.284px;
 	position: absolute;
 	overflow: visible;
@@ -34563,7 +34563,7 @@
 	top: 18.791px;
 }
 #Text_cjq {
-	left: 843.978px;
+	left: 843px;
 	top: 4104.346px;
 	position: absolute;
 	overflow: visible;
@@ -34591,7 +34591,7 @@
 	color: rgba(95,106,119,1);
 }
 #Text_cjs {
-	left: 927.75px;
+	left: 926px;
 	top: 4044.279px;
 	position: absolute;
 	overflow: visible;
@@ -34605,7 +34605,7 @@
 	color: rgba(95,106,119,1);
 }
 #Text_cjt {
-	left: 902.645px;
+	left: 900px;
 	top: 4037.779px;
 	position: absolute;
 	overflow: visible;
@@ -34619,7 +34619,7 @@
 	color: rgba(95,106,119,1);
 }
 #Text_cju {
-	left: 809.444px;
+	left: 805px;
 	top: 4071.4px;
 	position: absolute;
 	overflow: visible;
@@ -34633,7 +34633,7 @@
 	color: rgba(95,106,119,1);
 }
 #Text_cjv {
-	left: 336.205px;
+	left: 327px;
 	top: 4053.401px;
 	position: absolute;
 	overflow: visible;
@@ -34647,7 +34647,7 @@
 	color: rgba(95,106,119,1);
 }
 #Text_cjw {
-	left: 465.522px;
+	left: 462px;
 	top: 4039.279px;
 	position: absolute;
 	overflow: visible;
@@ -35125,4 +35125,9 @@
 #Text_cei,
 #Text_b {
     cursor: pointer;
+}
+
+.city-label{
+	font-family: HelveticaNeue-B;
+	font-size: 9px;
 }
