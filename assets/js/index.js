@@ -126,4 +126,13 @@ $(function() {
     $("#midle_next").on('click', function() {
         middle_swiper.slideNext();
     });
+
+    var brand_swiper = new Swiper(".brand_swiper", {
+        slidesPerView: 6,
+        spaceBetween: 100,
+        autoplay: {
+            delay: 5000,
+        },
+        loop: true
+    });
 })
