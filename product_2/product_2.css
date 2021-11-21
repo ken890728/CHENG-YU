@@ -207,7 +207,7 @@
 	top: 0px;
 }
 #Text {
-	left: 1235.029px;
+	left: 1175px;
 	top: 55.1px;
 	position: absolute;
 	overflow: visible;
@@ -221,7 +221,7 @@
 	color: rgba(248,248,248,1);
 }
 #Text_ {
-	left: 1506.769px;
+	left: 1440.769px;
 	top: 55.1px;
 	position: absolute;
 	overflow: visible;
@@ -235,7 +235,7 @@
 	color: rgba(248,248,248,1);
 }
 #Text_ba {
-	left: 1610.206px;
+	left: 1535.206px;
 	top: 55.1px;
 	position: absolute;
 	overflow: visible;
@@ -249,7 +249,7 @@
 	color: rgba(248,248,248,1);
 }
 #EN {
-	left: 1698px;
+	left: 1660px;
 	top: 57.1px;
 	position: absolute;
 	overflow: visible;
@@ -263,7 +263,7 @@
 	color: rgba(248,248,248,1);
 }
 #Text_bb {
-	left: 1726.051px;
+	left: 1695px;
 	top: 57.1px;
 	position: absolute;
 	overflow: visible;
@@ -276,8 +276,22 @@
 	font-size: 15px;
 	color: rgba(248,248,248,1);
 }
+#Text_cfa {
+	left: 1740px;
+  top: 57.1px;
+  position: absolute;
+  overflow: visible;
+  width: 31px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: GenYoGothic JP;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  color: rgba(248, 248, 248, 1);
+}
 #Text_bc {
-	left: 1403.333px;
+	left: 1340.048px;
 	top: 55.1px;
 	position: absolute;
 	overflow: visible;
@@ -1055,7 +1069,7 @@
 	transform: matrix(1,0,0,1,0,0);
 }
 #Text_dg {
-	left: 1300.772px;
+	left: 1240.744px;
 	top: 55.1px;
 	position: absolute;
 	overflow: visible;
@@ -1078,11 +1092,11 @@
 	height: 153.551px;
 	position: absolute;
 	overflow: visible;
-	transform: matrix(1,0,0,1,1291.0436,73.4056) rotate(90deg);
+	transform: matrix(1,0,0,1,1240.744,73.4056) rotate(90deg);
 	transform-origin: center;
 }
 #Text_di {
-	left: 1308.908px;
+	left: 1265.127px;
 	top: 118.982px;
 	position: absolute;
 	overflow: visible;
@@ -1096,7 +1110,7 @@
 	color: rgba(167,165,165,1);
 }
 #Text_dj {
-	left: 1308.908px;
+	left: 1265.127px;
 	top: 146.157px;
 	position: absolute;
 	overflow: visible;
@@ -1117,7 +1131,7 @@
 	overflow: visible;
 	width: 4.383px;
 	height: 4.383px;
-	left: 1295.76px;
+	left: 1240.744px;
 	top: 125.995px;
 }
 #n_387 {
@@ -1128,7 +1142,7 @@
 	overflow: visible;
 	width: 4.383px;
 	height: 3.506px;
-	left: 1295.76px;
+	left: 1240.744px;
 	top: 153.169px;
 }
 #n_286 {
