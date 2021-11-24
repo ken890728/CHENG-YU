@@ -82,6 +82,114 @@ function mapPointLeave(obj) {
 }
 
 $(function() {
+    sr = ScrollReveal({ mobile: false, scale: 1, duration: 800, easing: 'linear' });
+
+    if (sr.isSupported()) {
+        document.documentElement.classList.add('sr');
+        sr.reveal('#GRACESS_Company', {
+            distance: '15px',
+            origin: 'top'
+        });
+        sr.reveal('#Text_by', {
+            distance: '15px',
+            origin: 'top',
+            delay: 400,
+        });
+        sr.reveal('#Text_b', {
+            distance: '15px',
+            origin: 'top',
+        });
+        sr.reveal('#Text_bz', {
+            distance: '15px',
+            origin: 'top',
+        });
+        sr.reveal('#Text_bx', {
+            distance: '15px',
+            origin: 'top',
+        });
+        sr.reveal('#n_', {
+            distance: '15px',
+            origin: 'top',
+            delay: 400,
+            afterReveal: function() { $(".Rectangle_250").show(400) }
+        });
+        sr.reveal('#Enter_your_Email, #Text_bw', {
+            distance: '15px',
+            origin: 'top',
+            delay: 800,
+        });
+        sr.reveal('.num_subtitle', {
+            distance: '15px',
+            origin: 'bottom',
+        });
+        sr.reveal('.num_count', {
+            distance: '15px',
+            origin: 'bottom',
+            delay: 400,
+            beforeReveal: function() { count_start() }
+        });
+        sr.reveal('#Text_cex, #Text_cey', {
+            distance: '15px',
+            origin: 'top',
+        });
+        sr.reveal('#About_Us', {
+            distance: '15px',
+            origin: 'top',
+            afterReveal: function() { $(".Line_21").show(400) }
+        });
+        sr.reveal('#Text_ch, #Text_cia', {
+            distance: '15px',
+            origin: 'top',
+            delay: 400,
+        });
+        sr.reveal('#n__ch', {
+            distance: '15px',
+            origin: 'top',
+            delay: 800,
+        });
+        sr.reveal('#Group_279', {
+            distance: '15px',
+            origin: 'top',
+            delay: 1200,
+        });
+        sr.reveal('#Mask_Group_62', {
+            distance: '15px',
+            origin: 'bottom',
+        });
+        sr.reveal('#Group_318, #Group_317, #Group_320, #Group_319', {
+            distance: '15px',
+            origin: 'top',
+        });
+        sr.reveal('#Path_2542', {
+            distance: '15px',
+            origin: 'bottom',
+        });
+        sr.reveal('#Path_2541', {
+            distance: '15px',
+            origin: 'bottom',
+            delay: 400,
+        });
+        sr.reveal('#Our_Partner, #n__chw, #Text_chx, #Text_chy', {
+            distance: '15px',
+            origin: 'top',
+            delay: 800,
+        });
+        sr.reveal('#Our_Partner, #n__chw, #Text_chx, #Text_chy', {
+            distance: '15px',
+            origin: 'top',
+            delay: 800,
+        });
+        sr.reveal('.map_first_show', {
+            distance: '15px',
+            origin: 'top',
+        });
+        sr.reveal('.map_last_show', {
+            distance: '15px',
+            origin: 'top',
+            delay: 800,
+        });
+    }
+
     $('.top-swiper').slick({
         infinite: true,
         slidesToShow: 1,
@@ -117,6 +225,16 @@ $(function() {
         $(".midle-slide-block-sm").show();
         $(".midle-slide-block-sm").eq(index_currentSlide).hide();
         $(".midle-slide-block").eq(index_currentSlide).show();
+        if (index_currentSlide == 0) {
+            $("#midle_prev").hide();
+        } else {
+            $("#midle_prev").show();
+        }
+        if (index_currentSlide == 3) {
+            $("#midle_next").hide();
+        } else {
+            $("#midle_next").show();
+        }
     })
 
     $("#midle_prev").on('click', function() {

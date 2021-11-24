@@ -1520,6 +1520,14 @@ img {
     cursor: pointer;
 }
 
+.Component_6___1:hover .midle-slide-btn-rect {
+    fill: white;
+}
+
+.Component_6___1:hover .midle-slide-btn {
+    color: rgba(248, 248, 248, 0.5);
+}
+
 .Rectangle_410 {
     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
     position: absolute;
@@ -39843,7 +39851,7 @@ img {
     width: 694.848px;
     height: 517.031px;
     left: 265px;
-    top: 3000px;
+    top: 2773px;
     overflow: visible;
 }
 
@@ -39858,7 +39866,7 @@ img {
 
 #Text_ch {
     left: 382.039px;
-    top: 55.5px;
+    top: 48px;
     position: absolute;
     overflow: visible;
     width: 293px;
