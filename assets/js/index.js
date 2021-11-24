@@ -64,21 +64,19 @@ function hideDropdown() {
 }
 
 function middleSlideHover(obj) {
-    $(obj).children('.midle-slide-des-block').show(500);
+    $(obj).parent().children('.midle-slide-des-block').show(400);
 }
 
 function middleSlideLeave(obj) {
-    $(obj).children('.midle-slide-des-block').hide(500);
+    $(obj).parent().children('.midle-slide-des-block').hide(400);
 }
 
 function mapPointHover(obj) {
-    $(obj).children('svg').children('path').removeClass("map_point_leave");
-    $(obj).children('svg').children('path').addClass("map_point_hover");
+    $(obj).children('img').attr('src', 'assets/images/map-point-hover.png')
 }
 
 function mapPointLeave(obj) {
-    $(obj).children('svg').children('path').removeClass("map_point_hover");
-    $(obj).children('svg').children('path').addClass("map_point_leave");
+    $(obj).children('img').attr('src', 'assets/images/map-point.png')
 }
 
 function ch_prev_hover() {
