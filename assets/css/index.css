@@ -39866,7 +39866,7 @@ img {
 
 #Text_ch {
     left: 382.039px;
-    top: 52px;
+    top: 55px;
     position: absolute;
     overflow: visible;
     width: 293px;
@@ -39878,11 +39878,12 @@ img {
     font-size: 35px;
     color: rgba(0, 82, 94, 1);
     letter-spacing: 0.5px;
+    line-height: 35px;
 }
 
 #Text_cia {
     left: 55.961px;
-    top: 55.5px;
+    top: 55px;
     position: absolute;
     overflow: visible;
     width: 293px;
@@ -39894,6 +39895,7 @@ img {
     font-size: 35px;
     color: rgba(0, 82, 94, 1);
     letter-spacing: 0.5px;
+    line-height: 35px;
 }
 
 #n__ch {
