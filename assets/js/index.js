@@ -39,21 +39,6 @@ function doAction(oArg) {
     }
 }
 
-function eClick(oThis) {
-    switch (oThis.id) {
-        case 'about':
-            var sShow = ('' === document.getElementById('about1').style.display) ? 'none' : '';
-            document.getElementById('about1').style.display = sShow;
-            break;
-        default:
-            document.getElementById('about1').style.display = 'none';
-            break;
-    }
-
-    document.getElementById(sMenu).className = '';
-    sMenu = oThis.id;
-    document.getElementById(sMenu).className = 'hover';
-}
 
 function showDropdown() {
     $(".contact-dropdown").show();

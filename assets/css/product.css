@@ -1686,80 +1686,19 @@
     color: rgba(50, 50, 50, 1);
 }
 
-#n_021 {
-    left: 289px;
-    top: 2086px;
-    position: absolute;
+.book_name {
     overflow: visible;
     width: 99px;
+    margin-top: 10px;
+    margin-left: -20px;
     white-space: nowrap;
     text-align: center;
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
-    color: rgba(246, 201, 77, 1);
+    color: rgba(167, 165, 165, 1);
     letter-spacing: 0.5px;
-}
-
-#n_020 {
-    left: 436px;
-    top: 2086px;
-    position: absolute;
-    overflow: visible;
-    width: 93px;
-    white-space: nowrap;
-    text-align: center;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(167, 165, 165, 1);
-}
-
-#n_019 {
-    left: 581px;
-    top: 2086px;
-    position: absolute;
-    overflow: visible;
-    width: 93px;
-    white-space: nowrap;
-    text-align: center;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(167, 165, 165, 1);
-}
-
-#n_018 {
-    left: 725px;
-    top: 2086px;
-    position: absolute;
-    overflow: visible;
-    width: 93px;
-    white-space: nowrap;
-    text-align: center;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(167, 165, 165, 1);
-}
-
-#n_017 {
-    left: 869px;
-    top: 2086px;
-    position: absolute;
-    overflow: visible;
-    width: 93px;
-    white-space: nowrap;
-    text-align: center;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(167, 165, 165, 1);
 }
 
 #Text_d {

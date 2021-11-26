@@ -2805,3 +2805,35 @@ var Application = function() {
 }
 
 window.application = new Application();
+
+function middleSlideHover(obj) {
+    $(obj).parent().children('.midle-slide-des-block').show(400);
+}
+
+function middleSlideLeave(obj) {
+    $(obj).parent().children('.midle-slide-des-block').hide(400);
+}
+
+function mapPointHover(obj) {
+    $(obj).children('img').attr('src', 'assets/images/map-point-hover.png')
+}
+
+function mapPointLeave(obj) {
+    $(obj).children('img').attr('src', 'assets/images/map-point.png')
+}
+
+$(function() {
+    sr = ScrollReveal({ mobile: false, scale: 1, duration: 800, easing: 'linear' });
+
+    if (sr.isSupported()) {
+        sr.reveal('.map_first_show', {
+            distance: '15px',
+            origin: 'top',
+        });
+        sr.reveal('.map_last_show', {
+            distance: '15px',
+            origin: 'top',
+            delay: 800,
+        });
+    }
+})

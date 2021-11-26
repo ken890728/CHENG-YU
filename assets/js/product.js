@@ -2804,3 +2804,13 @@ var Application = function() {
 }
 
 window.application = new Application();
+
+function book_hover(obj){
+    $(obj).children("img").attr("src", "assets/images/book_hover.png");
+    $(obj).children(".book_name").css("color", "rgba(246, 201, 77, 1)");
+}
+
+function book_leave(obj){
+    $(obj).children("img").attr("src", "assets/images/book.png");
+    $(obj).children(".book_name").css("color", "rgba(167, 165, 165, 1)");
+}
