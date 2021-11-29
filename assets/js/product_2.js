@@ -1,49 +1,17 @@
 ///////////////////////////////////////
 // INITIALIZATION
 ///////////////////////////////////////
-function showDropdown() {
-    $(".contact-dropdown").show();
+
+function detail_book_hover(obj) {
+    $(obj).children("img").attr("src", "assets/images/detail_book_hover.png");
+    $(obj).children(".detail_book_name").css("color", "rgba(246, 201, 77, 1)");
 }
 
-function hideDropdown() {
-    $(".contact-dropdown").hide();
+function detail_book_leave(obj) {
+    $(obj).children("img").attr("src", "assets/images/detail_book.png");
+    $(obj).children(".detail_book_name").css("color", "rgba(167, 165, 165, 1)");
 }
 
-var tw_list_open = true;
-
-function tw_block_list(obj) {
-    if (tw_list_open) {
-        tw_list_open = false;
-        $(".tw_booklist").hide();
-        $(obj).attr("src", "assets/images/plus_btn.png");
-    } else {
-        tw_list_open = true;
-        $(".tw_booklist").show();
-        $(obj).attr("src", "assets/images/sub_btn.png");
-    }
-}
-
-var en_list_open = false;
-
-function en_block_list(obj) {
-    if (en_list_open) {
-        en_list_open = false;
-        $(".en_booklist").hide();
-        $(obj).attr("src", "assets/images/plus_btn.png");
-    } else {
-        en_list_open = true;
-        $(".en_booklist").show();
-        $(obj).attr("src", "assets/images/sub_btn.png");
-    }
-}
-
-function show_product_detail(obj) {
-    $(obj).children(".product_hover").slideDown();
-}
-
-function hide_product_detail(obj) {
-    $(obj).children(".product_hover").slideUp();
-}
 /**
  * Functionality for scaling, showing by media query, and navigation between multiple pages on a single page. 
  * Code subject to change.
@@ -2840,13 +2808,3 @@ var Application = function() {
 }
 
 window.application = new Application();
-
-function book_hover(obj) {
-    $(obj).children("img").attr("src", "assets/images/book_hover.png");
-    $(obj).children(".book_name").css("color", "rgba(246, 201, 77, 1)");
-}
-
-function book_leave(obj) {
-    $(obj).children("img").attr("src", "assets/images/book.png");
-    $(obj).children(".book_name").css("color", "rgba(167, 165, 165, 1)");
-}

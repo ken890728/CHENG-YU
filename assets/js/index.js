@@ -80,6 +80,18 @@ function rm_next_hover() {
     $("#midle_next").attr("src", "assets/images/right_slide_btn.png");
 }
 
+function change_silde_1() {
+    $('.top-swiper').slick('slickGoTo', 0);
+}
+
+function change_silde_2() {
+    $('.top-swiper').slick('slickGoTo', 1);
+}
+
+function change_silde_3() {
+    $('.top-swiper').slick('slickGoTo', 2);
+}
+
 $(function() {
     sr = ScrollReveal({ mobile: false, scale: 1, duration: 800, easing: 'linear' });
 
@@ -210,6 +222,7 @@ $(function() {
         $(".top_silde_page").attr("src", "assets/images/Ellipse_white.png");
         $(".top_silde_page").eq(currentSlide + 1 > 2 ? 0 : currentSlide + 1).attr("src", "assets/images/Ellipse_black.png");
     });
+
 
     var middle_swiper = new Swiper(".middle-swiper", {
         slidesPerView: 5,

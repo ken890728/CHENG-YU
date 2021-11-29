@@ -40850,6 +40850,10 @@ img {
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
+.top_silde_page {
+    cursor: pointer;
+}
+
 #Group_157_cka {
     position: absolute;
     width: 10.655px;
