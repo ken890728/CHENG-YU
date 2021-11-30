@@ -1406,12 +1406,12 @@
     overflow: visible;
     width: 126.931px;
     height: 58.731px;
-    left: 1100.125px;
+    left: 1180.125px;
     top: 1131.03px;
 }
 
 #Text_dv {
-    left: 1124.591px;
+    left: 1204.591px;
     top: 1140.896px;
     position: absolute;
     overflow: visible;
@@ -1437,7 +1437,12 @@
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
-    color: rgba(167, 165, 165, 1);
+    color: rgba(167, 165, 165, 1) !important;
+}
+
+#n____ a {
+    color: rgba(167, 165, 165, 1) !important;
+    text-decoration: none;
 }
 
 #n_____dx {
@@ -1452,7 +1457,11 @@
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
-    color: rgba(167, 165, 165, 1);
+}
+
+#n_____dx a {
+    color: rgba(167, 165, 165, 1) !important;
+    text-decoration: none;
 }
 
 #Text_dy {
