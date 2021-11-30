@@ -2427,3 +2427,8 @@
 .news_block img {
     cursor: pointer;
 }
+
+#n__ a {
+    color: rgba(167, 165, 165, 1) !important;
+    text-decoration: none;
+}

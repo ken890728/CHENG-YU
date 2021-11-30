@@ -2501,3 +2501,23 @@
     top: 587px;
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
+.relate_product {
+    cursor: pointer;
+    z-index: 2;
+}
+
+.relate_product div {
+    cursor: pointer;
+    z-index: 2;
+}
+
+.relate_product svg {
+    cursor: pointer;
+    z-index: 2;
+}
+
+.relate_product img {
+    cursor: pointer;
+    z-index: 2;
+}

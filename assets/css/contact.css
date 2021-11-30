@@ -39319,3 +39319,8 @@ input::placeholder {
     top: 0px;
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
+#n__ a {
+    color: rgba(167, 165, 165, 1) !important;
+    text-decoration: none;
+}
