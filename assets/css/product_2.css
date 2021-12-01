@@ -1604,13 +1604,13 @@
     overflow: visible;
     width: 126.931px;
     height: 58.731px;
-    left: 1180.125px;
+    left: 1103.125px;
     top: 1131.03px;
 }
 
 #Text_dv {
-    left: 1204.591px;
-    top: 1140.896px;
+    left: 1127.591px;
+    top: 1143.896px;
     position: absolute;
     overflow: visible;
     width: 61px;
@@ -1655,6 +1655,7 @@
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
+    color: rgba(167, 165, 165, 1);
 }
 
 #n_____dx a {
@@ -2057,6 +2058,7 @@
     left: 544.848px;
     top: 8.877px;
     transform: matrix(1, 0, 0, 1, 0, 0);
+    cursor: pointer;
 }
 
 #n_2504 {

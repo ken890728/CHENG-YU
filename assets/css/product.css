@@ -226,9 +226,9 @@
     overflow: visible;
     position: absolute;
     width: 1920px;
-    height: 2285.544px;
+    height: 2696.544px;
     left: 0px;
-    top: 586px;
+    top: 0px;
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
@@ -1913,9 +1913,9 @@
     position: absolute;
     overflow: visible;
     width: 222.731px;
-    height: 236.033px;
+    height: 237.902px;
     left: 0;
-    bottom: 44px;
+    bottom: 43px;
     border-radius: 8px
 }
 
