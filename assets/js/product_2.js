@@ -2,6 +2,14 @@
 // INITIALIZATION
 ///////////////////////////////////////
 
+function showDropdown() {
+    $(".contact-dropdown").show();
+}
+
+function hideDropdown() {
+    $(".contact-dropdown").hide();
+}
+
 function detail_book_hover(obj) {
     $(obj).children("img").attr("src", "assets/images/detail_book_hover.png");
     $(obj).children(".detail_book_name").css("color", "rgba(246, 201, 77, 1)");

@@ -226,9 +226,9 @@
     overflow: visible;
     position: absolute;
     width: 1920px;
-    height: 2285.544px;
+    height: 2696.544px;
     left: 0px;
-    top: 586px;
+    top: 0px;
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
@@ -1653,6 +1653,7 @@
     color: rgba(50, 50, 50, 1);
     text-align: center;
     margin-top: 20px;
+    height: 20px;
 }
 
 #n_SPP-957 {
@@ -1912,9 +1913,10 @@
     position: absolute;
     overflow: visible;
     width: 222.731px;
-    height: 236.033px;
+    height: 237.902px;
     left: 0;
-    bottom: 44px;
+    bottom: 43px;
+    border-radius: 8px
 }
 
 .hover_icon_block {
@@ -2213,7 +2215,7 @@
 
 #n_ {
     left: 0px;
-    top: 0px;
+    top: 3px;
     position: absolute;
     overflow: visible;
     width: 9px;
@@ -2222,8 +2224,8 @@
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
-    color: rgba(246, 201, 77, 1);
+    font-size: 12px;
+    color: rgba(167, 165, 165, 1);
     letter-spacing: 0.5px;
     cursor: pointer;
 }
@@ -2265,9 +2267,25 @@
     width: 46.02px;
     height: 16px;
     left: 1263.99px;
-    top: 1809px;
+    top: 1806px;
     overflow: visible;
     cursor: pointer;
+}
+
+#n_180 div:hover {
+    color: rgba(246, 201, 77, 1) !important;
+}
+
+#n_178:hover div,
+#n_178:hover svg path {
+    color: rgba(246, 201, 77, 1) !important;
+    fill: rgba(246, 201, 77, 1) !important;
+}
+
+#n_179:hover div,
+#n_179:hover svg path {
+    color: rgba(246, 201, 77, 1) !important;
+    fill: rgba(246, 201, 77, 1) !important;
 }
 
 #Text_fb {
@@ -2297,7 +2315,7 @@
     transform: translate(-1299px, -1840px) matrix(1, 0, 0, 1, 1339, 1845.0001) rotate(180deg);
     transform-origin: center;
     left: 4px;
-    top: -1px;
+    top: -4px;
 }
 
 #n_178 {
@@ -2335,7 +2353,7 @@
     width: 6px;
     height: 9.749px;
     left: 0px;
-    top: 4px;
+    top: 1px;
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
@@ -3169,4 +3187,9 @@
     top: 2255px;
     left: 200px;
     display: flex;
+}
+
+#n____ a {
+    color: rgba(167, 165, 165, 1) !important;
+    text-decoration: none;
 }

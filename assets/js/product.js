@@ -16,10 +16,18 @@ function tw_block_list(obj) {
         tw_list_open = false;
         $(".tw_booklist").hide();
         $(obj).attr("src", "assets/images/plus_btn.png");
+        $(".n_2489").css("top", "2025px");
+        $("#Text_d").css("top", "2029px");
+        $(".n_25").css("top", "2075px");
+        $(".en_booklist").css("top", "2105px");
     } else {
         tw_list_open = true;
         $(".tw_booklist").show();
         $(obj).attr("src", "assets/images/sub_btn.png");
+        $(".n_2489").css("top", "2175px");
+        $("#Text_d").css("top", "2179px");
+        $(".n_25").css("top", "2225px");
+        $(".en_booklist").css("top", "2255px");
     }
 }
 

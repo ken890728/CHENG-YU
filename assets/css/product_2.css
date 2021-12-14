@@ -16,6 +16,204 @@
     border: none;
 }
 
+#n_284 {
+    opacity: 0.428;
+    fill: rgba(0, 82, 94, 1);
+}
+
+.n_284 {
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 1950px;
+    height: 134px;
+    left: 0px;
+    top: 0px;
+}
+
+#Group_251 {
+    position: absolute;
+    width: 443.177px;
+    height: 151.606px;
+    left: 1060.823px;
+    top: 58.1px;
+    overflow: visible;
+}
+
+#Text_chm a {
+    outline: none;
+    text-decoration: none;
+    left: 375.177px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+#Text_chm:hover a {
+    outline: none;
+    text-decoration: none;
+    color: rgba(246, 201, 77, 1);
+}
+
+#Text_chn a {
+    outline: none;
+    text-decoration: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 35px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+#Text_chn:hover a {
+    outline: none;
+    text-decoration: none;
+    color: rgba(246, 201, 77, 1);
+}
+
+#Text_cho a {
+    outline: none;
+    text-decoration: none;
+    left: 271.74px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+#Text_cho:hover a {
+    outline: none;
+    text-decoration: none;
+    color: rgba(246, 201, 77, 1);
+}
+
+#Text_chp a {
+    outline: none;
+    text-decoration: none;
+    left: 168.304px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+#Text_chp:hover a {
+    outline: none;
+    text-decoration: none;
+    color: rgba(246, 201, 77, 1);
+}
+
+#Text_chq a {
+    outline: none;
+    text-decoration: none;
+    left: 65.744px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+    cursor: pointer;
+}
+
+#Text_chq:hover a {
+    outline: none;
+    text-decoration: none;
+    color: rgba(246, 201, 77, 1);
+}
+
+.Path_2535 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    overflow: visible;
+    position: absolute;
+    width: 205.057px;
+    height: 136.684px;
+    left: 29.594px;
+    top: 32.921px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#Path_2535 {
+    opacity: 0.609;
+    fill: rgba(255, 255, 255, 1);
+}
+
+#n__chs {
+    left: 77.304px;
+    top: 77.263px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    height: 17px;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+#n__cht {
+    left: 77.304px;
+    top: 104.437px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    height: 17px;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+#n__chs a {
+    font-size: 15px;
+    outline: none;
+    text-decoration: none;
+    color: rgba(95, 106, 119, 1);
+}
+
+#n__cht a {
+    font-size: 15px;
+    outline: none;
+    text-decoration: none;
+    color: rgba(95, 106, 119, 1);
+}
+
 #Web_1920__8 {
     position: absolute;
     width: 1920px;
@@ -1406,13 +1604,13 @@
     overflow: visible;
     width: 126.931px;
     height: 58.731px;
-    left: 1180.125px;
+    left: 1103.125px;
     top: 1131.03px;
 }
 
 #Text_dv {
-    left: 1204.591px;
-    top: 1140.896px;
+    left: 1127.591px;
+    top: 1143.896px;
     position: absolute;
     overflow: visible;
     width: 61px;
@@ -1457,6 +1655,7 @@
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
+    color: rgba(167, 165, 165, 1);
 }
 
 #n_____dx a {
@@ -1859,6 +2058,7 @@
     left: 544.848px;
     top: 8.877px;
     transform: matrix(1, 0, 0, 1, 0, 0);
+    cursor: pointer;
 }
 
 #n_2504 {
@@ -2302,4 +2502,24 @@
     left: 0px;
     top: 587px;
     transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.relate_product {
+    cursor: pointer;
+    z-index: 2;
+}
+
+.relate_product div {
+    cursor: pointer;
+    z-index: 2;
+}
+
+.relate_product svg {
+    cursor: pointer;
+    z-index: 2;
+}
+
+.relate_product img {
+    cursor: pointer;
+    z-index: 2;
 }
