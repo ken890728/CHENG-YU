@@ -533,19 +533,19 @@ img {
 }
 
 #n_ {
-    left: 529.405px;
+    left: 430px;
     top: 1826.326px;
     position: absolute;
     overflow: visible;
     width: 397px;
     white-space: nowrap;
-    line-height: 20px;
+    line-height: 24px;
     margin-top: -3px;
     text-align: left;
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 18pt;
     color: rgba(95, 106, 119, 1);
     letter-spacing: 0.5px;
 }
@@ -1184,12 +1184,12 @@ img {
     overflow: visible;
     width: 449.091px;
     height: 52px;
-    left: 960.314px;
+    left: 1060.314px;
     top: 1808.326px;
 }
 
 #Enter_your_Email {
-    left: 991.109px;
+    left: 1091.109px;
     top: 1823.326px;
     position: absolute;
     overflow: visible;
@@ -1204,7 +1204,7 @@ img {
 }
 
 #Text_bw {
-    left: 1346.405px;
+    left: 1446.405px;
     top: 1818.326px;
     position: absolute;
     overflow: visible;
@@ -1219,7 +1219,7 @@ img {
 }
 
 #Text_bx {
-    left: 1072.761px;
+    left: 1172.761px;
     top: 1734.614px;
     position: absolute;
     overflow: visible;
@@ -1235,7 +1235,7 @@ img {
 }
 
 #Text_by {
-    left: 678.5px;
+    left: 880px;
     top: 934px;
     position: absolute;
     overflow: visible;
@@ -1251,7 +1251,7 @@ img {
 }
 
 #Text_bz {
-    left: 529.405px;
+    left: 430px;
     top: 1773.317px;
     position: absolute;
     overflow: visible;
@@ -1267,7 +1267,7 @@ img {
 }
 
 #Text_b {
-    left: 529.405px;
+    left: 430px;
     top: 1731.115px;
     position: absolute;
     overflow: visible;
@@ -38222,7 +38222,7 @@ img {
     position: absolute;
     width: 208px;
     height: 40.731px;
-    left: 415px;
+    left: 378px;
     top: 458.117px;
     overflow: visible;
 }
@@ -38256,7 +38256,7 @@ img {
 }
 
 #n__cd {
-    left: 417px;
+    left: 378px;
     top: 222.821px;
     position: absolute;
     overflow: visible;
@@ -38273,7 +38273,7 @@ img {
 }
 
 #Innovate_for_the_industry {
-    left: 417px;
+    left: 378px;
     top: 399.528px;
     position: absolute;
     overflow: visible;
@@ -38285,24 +38285,24 @@ img {
     font-family: Calibri;
     font-style: normal;
     font-weight: lighter;
-    font-size: 17px;
+    font-size: 20pt;
     color: rgba(50, 50, 50, 1);
 }
 
 #Make_profits_for__the_environm {
-    left: 417px;
+    left: 378px;
     top: 343.095px;
     position: absolute;
     overflow: visible;
     width: 133px;
     white-space: nowrap;
-    line-height: 20px;
+    line-height: 24px;
     margin-top: -0.5px;
     text-align: center;
     font-family: Calibri;
     font-style: normal;
     font-weight: bold;
-    font-size: 19px;
+    font-size: 24pt;
     color: rgba(50, 50, 50, 1);
 }
 
@@ -38310,7 +38310,7 @@ img {
     position: absolute;
     width: 120.116px;
     height: 21.588px;
-    left: 418.946px;
+    left: 380px;
     top: 191.894px;
     overflow: visible;
 }
@@ -39788,21 +39788,22 @@ img {
 }
 
 #n__chw {
-    left: 1347px;
+    left: 1140px;
     top: 3509.609px;
     position: absolute;
     overflow: visible;
-    width: 309px;
+    width: fit-content;
     white-space: nowrap;
-    line-height: 20px;
+    line-height: 24px;
     margin-top: -3px;
     text-align: right;
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 18pt;
     color: rgba(50, 50, 50, 1);
     letter-spacing: 0.5px;
+    text-align: right;
 }
 
 #Text_chx {
@@ -39822,7 +39823,7 @@ img {
 }
 
 #Text_chy {
-    left: 1515px;
+    left: 1445px;
     top: 3400.284px;
     position: absolute;
     overflow: visible;
@@ -39882,7 +39883,7 @@ img {
 }
 
 #Text_cia {
-    left: 55.961px;
+    left: 25.961px;
     top: 55px;
     position: absolute;
     overflow: visible;
@@ -39899,21 +39900,22 @@ img {
 }
 
 #n__ch {
-    left: 167px;
+    left: 20px;
     top: 116px;
     position: absolute;
     overflow: visible;
-    width: 397px;
+    width: fit-content;
     white-space: nowrap;
-    line-height: 20px;
+    line-height: 24px;
     margin-top: -3px;
     text-align: left;
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 18pt;
     color: rgba(95, 106, 119, 1);
     letter-spacing: 0.5px;
+    text-align: center;
 }
 
 #About_Us {
@@ -40339,8 +40341,8 @@ img {
 }
 
 #Text_ci {
-    left: 0px;
-    top: 0px;
+    left: 5px;
+    top: -10px;
     position: absolute;
     overflow: visible;
     width: 113px;
@@ -40349,23 +40351,23 @@ img {
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 18pt;
 }
 
 #Text_cja {
-    left: 0px;
+    left: -40px;
     top: 23.927px;
     position: absolute;
     overflow: visible;
     width: 113px;
     white-space: nowrap;
     line-height: 14px;
-    margin-top: -1px;
+    margin-top: 5px;
     text-align: center;
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 16pt;
     letter-spacing: 0.5px;
 }
 
@@ -40408,7 +40410,7 @@ img {
 
 #Text_cjb {
     left: 0px;
-    top: 0px;
+    top: -10px;
     position: absolute;
     overflow: visible;
     width: 97px;
@@ -40417,23 +40419,23 @@ img {
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 18pt;
 }
 
 #n__ {
-    left: 4px;
+    left: -25px;
     top: 23.927px;
     position: absolute;
     overflow: visible;
-    width: 89px;
+    width: fit-content;
     white-space: nowrap;
-    line-height: 14px;
+    line-height: 18pt;
     margin-top: -1px;
     text-align: center;
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 16pt;
     letter-spacing: 0.5px;
 }
 
@@ -40507,7 +40509,7 @@ img {
 }
 
 #Text_cjg {
-    left: 24px;
+    left: 5px;
     top: 64.932px;
     position: absolute;
     overflow: visible;
@@ -40517,23 +40519,23 @@ img {
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 18pt;
 }
 
 #n__cjh {
-    left: 0px;
+    left: -45px;
     top: 88.859px;
     position: absolute;
     overflow: visible;
-    width: 113px;
+    width: fit-content;
     white-space: nowrap;
-    line-height: 14px;
-    margin-top: -1px;
+    line-height: 18px;
+    margin-top: 10px;
     text-align: center;
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 16pt;
     letter-spacing: 0.5px;
 }
 
@@ -40565,7 +40567,7 @@ img {
 }
 
 #Text_cjl {
-    left: 0px;
+    left: 20px;
     top: 0px;
     position: absolute;
     overflow: visible;
@@ -40575,23 +40577,23 @@ img {
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 18pt;
 }
 
 #Text_cjm {
-    left: 18px;
-    top: 23.927px;
+    left: -15px;
+    top: 35px;
     position: absolute;
     overflow: visible;
     width: 101px;
     white-space: nowrap;
     line-height: 14px;
-    margin-top: -1px;
+    margin-top: 5px;
     text-align: center;
     font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 16pt;
     letter-spacing: 0.5px;
 }
 
