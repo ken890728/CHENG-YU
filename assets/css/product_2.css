@@ -291,7 +291,7 @@
     width: 129px;
     white-space: nowrap;
     text-align: center;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -1616,7 +1616,7 @@
     width: 61px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -1628,13 +1628,13 @@
     top: 696.759px;
     position: absolute;
     overflow: visible;
-    width: 219px;
+    width: fit-content;
     height: 20px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1) !important;
 }
 
@@ -1648,79 +1648,19 @@
     top: 545px;
     position: absolute;
     overflow: visible;
-    width: 219px;
+    width: fit-content;
     height: 20px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1);
 }
 
 #n_____dx a {
     color: rgba(167, 165, 165, 1) !important;
     text-decoration: none;
-}
-
-#Text_dy {
-    left: 265px;
-    top: 855.736px;
-    position: absolute;
-    overflow: visible;
-    width: 76px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(50, 50, 50, 1);
-}
-
-#Text_dz {
-    left: 265px;
-    top: 993.006px;
-    position: absolute;
-    overflow: visible;
-    width: 76px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(167, 165, 165, 1);
-}
-
-#Text_d {
-    left: 265px;
-    top: 1033.006px;
-    position: absolute;
-    overflow: visible;
-    width: 76px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(167, 165, 165, 1);
-}
-
-#Text_ea {
-    left: 265px;
-    top: 1073.006px;
-    position: absolute;
-    overflow: visible;
-    width: 61px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(167, 165, 165, 1);
 }
 
 #Text_eb {
@@ -1731,71 +1671,11 @@
     width: 61px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
     color: rgba(167, 165, 165, 1);
-}
-
-#Text_ec {
-    left: 303px;
-    top: 895.736px;
-    position: absolute;
-    overflow: visible;
-    width: 76px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(167, 165, 165, 1);
-}
-
-#Text_ed {
-    left: 303px;
-    top: 949.736px;
-    position: absolute;
-    overflow: visible;
-    width: 61px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(167, 165, 165, 1);
-}
-
-#Text_ee {
-    left: 303px;
-    top: 922.736px;
-    position: absolute;
-    overflow: visible;
-    width: 61px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    color: rgba(50, 50, 50, 1);
-}
-
-#Text_ef {
-    left: 479.75px;
-    top: 1666.33px;
-    position: absolute;
-    overflow: visible;
-    width: 121px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    color: rgba(50, 50, 50, 1);
 }
 
 #n_25 {
@@ -1850,7 +1730,7 @@
     width: 135px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -1865,7 +1745,7 @@
     width: 135px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -1880,7 +1760,7 @@
     width: 135px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -2412,7 +2292,7 @@
     width: 283px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 23px;
@@ -2427,10 +2307,10 @@
     width: 61px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1);
 }
 
@@ -2444,10 +2324,10 @@
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 16px;
     color: rgba(167, 165, 165, 1);
     letter-spacing: 0.5px;
 }
@@ -2522,4 +2402,236 @@
 .relate_product img {
     cursor: pointer;
     z-index: 2;
+}
+
+.Text_chv_Class {
+    left: 1436px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chw_Class {
+    left: 1060.823px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 35px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chx_Class {
+    left: 1332.563px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chy_Class {
+    left: 1229.127px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chz_Class {
+    left: 1126.566px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.header_tab span {
+    font-family: GenYoGothic-M;
+}
+
+.header_tab:hover {
+    cursor: pointer;
+}
+
+.header_tab:hover {
+    color: rgba(246, 201, 77, 1);
+}
+
+.Path_2535_Class {
+    opacity: 0.609;
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2535 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    overflow: visible;
+    position: absolute;
+    width: 140.637px;
+    height: 128.129px;
+    left: 1104.308px;
+    top: 91.36px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_ch_Class {
+    left: 1120px;
+    top: 131.363px;
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 20px;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(95, 106, 119, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_cia_Class {
+    left: 1120px;
+    top: 158.537px;
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 20px;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(95, 106, 119, 1);
+    font-family: GenYoGothic-M;
+}
+
+.EN_Class {
+    left: 1660px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_ce_Class {
+    left: 1695px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_cfa_Class {
+    left: 1740px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.left-tab-block {
+    left: 265px;
+    top: 855.736px;
+    position: absolute;
+    overflow: visible;
+    width: fit-content;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.left-tab-block a {
+    text-decoration: none;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(167, 165, 165, 1);
+}
+
+.left-tab-block .left-tab.active,
+.left-tab-block .left-subtab.active {
+    color: rgba(50, 50, 50, 1);
+}
+
+.left-tab-block .left-tab,
+.left-tab-block .left-subtab {
+    margin-top: 20px;
+    line-height: 24px;
+}
+
+.left-tab-block .left-subtab {
+    margin-left: 38px;
+}
+
+#Text_ef {
+    left: 479.75px;
+    top: 1666.33px;
+    position: absolute;
+    overflow: visible;
+    width: 121px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(50, 50, 50, 1);
 }

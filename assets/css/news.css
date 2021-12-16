@@ -1350,10 +1350,10 @@
     width: 219px;
     height: 20px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1);
 }
 
@@ -1394,7 +1394,7 @@
 
 #Text_df {
     left: 302.737px;
-    top: 986.373px;
+    top: 994px;
     position: absolute;
     overflow: visible;
     width: 145px;
@@ -1402,16 +1402,16 @@
     line-height: 32px;
     margin-top: -4px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
+    font-size: 28px;
     color: rgba(50, 50, 50, 1);
 }
 
 #n___ {
     left: 1364.663px;
-    top: 1493.151px;
+    top: 1504.151px;
     position: absolute;
     overflow: visible;
     width: 239px;
@@ -1419,10 +1419,10 @@
     line-height: 33px;
     margin-top: -4px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 28px;
     color: rgba(50, 50, 50, 1);
 }
 
@@ -1434,31 +1434,31 @@
     width: 49px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 18px;
     color: rgba(167, 165, 165, 1);
 }
 
 #Text_di {
-    left: 1583.153px;
-    top: 1766.578px;
+    left: 1560.153px;
+    top: 1769.578px;
     position: absolute;
     overflow: visible;
     width: 49px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 18px;
     color: rgba(167, 165, 165, 1);
 }
 
 #Text_dj {
     left: 302.737px;
-    top: 1040.975px;
+    top: 1034px;
     position: absolute;
     overflow: visible;
     width: 386.992px;
@@ -1466,17 +1466,17 @@
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 15px;
     color: rgba(167, 165, 165, 1);
     letter-spacing: 0.5px;
 }
 
 #n_73 {
     left: 1364.663px;
-    top: 1599.554px;
+    top: 1577.554px;
     position: absolute;
     overflow: hidden;
     width: 243.664px;
@@ -1484,41 +1484,42 @@
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 15px;
     color: rgba(167, 165, 165, 1);
     letter-spacing: 0.5px;
 }
 
 #n_1_st_Sep_2020 {
     left: 302.737px;
-    top: 965.667px;
+    top: 960px;
     position: absolute;
     overflow: visible;
     width: 68px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 10px;
+    font-size: 18px;
+    line-height: 20px;
     color: rgba(0, 82, 94, 1);
 }
 
 #n_1_st_Sep_2020_dm {
     left: 1364.663px;
-    top: 1472.445px;
+    top: 1467.445px;
     position: absolute;
     overflow: visible;
     width: 68px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 10px;
+    font-size: 18px;
     color: rgba(0, 82, 94, 1);
 }
 
@@ -1718,10 +1719,10 @@
     width: 61px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1);
     cursor: pointer;
 }
@@ -1734,10 +1735,10 @@
     width: 61px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1);
     cursor: pointer;
 }
@@ -1750,10 +1751,10 @@
     width: 61px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1);
     cursor: pointer;
 }
@@ -1766,10 +1767,10 @@
     width: 61px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1);
     cursor: pointer;
 }
@@ -1845,7 +1846,7 @@
 
 #n_GORE-TEX {
     left: 642.036px;
-    top: 1309.215px;
+    top: 1314.215px;
     position: absolute;
     overflow: visible;
     width: 159px;
@@ -1853,16 +1854,16 @@
     line-height: 32px;
     margin-top: -4px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
+    font-size: 28px;
     color: rgba(50, 50, 50, 1);
 }
 
 #n_ {
     left: 996.139px;
-    top: 1616.987px;
+    top: 1620px;
     position: absolute;
     overflow: visible;
     width: 179px;
@@ -1870,16 +1871,16 @@
     line-height: 32px;
     margin-top: -4px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
+    font-size: 28px;
     color: rgba(50, 50, 50, 1);
 }
 
 #n__ec {
     left: 292.505px;
-    top: 1616.987px;
+    top: 1607px;
     position: absolute;
     overflow: visible;
     width: 248px;
@@ -1887,16 +1888,16 @@
     line-height: 32px;
     margin-top: -4px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
+    font-size: 28px;
     color: rgba(50, 50, 50, 1);
 }
 
 #Text_ed {
     left: 642.036px;
-    top: 1392.416px;
+    top: 1381.22px;
     position: absolute;
     overflow: visible;
     width: 246.874px;
@@ -1904,17 +1905,17 @@
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 15px;
     color: rgba(167, 165, 165, 1);
     letter-spacing: 0.5px;
 }
 
 #Text_ee {
     left: 996.139px;
-    top: 1665.561px;
+    top: 1660px;
     position: absolute;
     overflow: visible;
     width: 264.62px;
@@ -1922,17 +1923,17 @@
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 15px;
     color: rgba(167, 165, 165, 1);
     letter-spacing: 0.5px;
 }
 
 #n___ef {
     left: 292.505px;
-    top: 1665.561px;
+    top: 1676.8px;
     position: absolute;
     overflow: hidden;
     width: 264.62px;
@@ -1940,101 +1941,101 @@
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 15px;
     color: rgba(167, 165, 165, 1);
     letter-spacing: 0.5px;
 }
 
 #n_1_st_Sep_2020_eg {
     left: 642.036px;
-    top: 1288.509px;
+    top: 1283.509px;
     position: absolute;
     overflow: visible;
     width: 68px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 10px;
+    font-size: 18px;
     color: rgba(0, 82, 94, 1);
 }
 
 #n_1_st_Sep_2020_eh {
     left: 996.139px;
-    top: 1596.281px;
+    top: 1591.281px;
     position: absolute;
     overflow: visible;
     width: 68px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 10px;
+    font-size: 18px;
     color: rgba(0, 82, 94, 1);
 }
 
 #n_1_st_Sep_2020_ei {
     left: 292.505px;
-    top: 1596.281px;
+    top: 1573px;
     position: absolute;
     overflow: visible;
     width: 68px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 10px;
+    font-size: 18px;
     color: rgba(0, 82, 94, 1);
 }
 
 #Text_ej {
-    left: 1217.2px;
-    top: 1766.578px;
+    left: 1207.2px;
+    top: 1769.578px;
     position: absolute;
     overflow: visible;
     width: 49px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 18px;
     color: rgba(167, 165, 165, 1);
 }
 
 #Text_ek {
-    left: 507.777px;
-    top: 1766.578px;
+    left: 495.777px;
+    top: 1772.578px;
     position: absolute;
     overflow: visible;
     width: 49px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 18px;
     color: rgba(167, 165, 165, 1);
 }
 
 #Text_el {
-    left: 871.5px;
-    top: 1471.445px;
+    left: 852.5px;
+    top: 1473px;
     position: absolute;
     overflow: visible;
     width: 49px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 18px;
     color: rgba(167, 165, 165, 1);
 }
 
@@ -2431,4 +2432,187 @@
 #n__ a {
     color: rgba(167, 165, 165, 1) !important;
     text-decoration: none;
+}
+
+.Text_chv_Class {
+    left: 1436px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chw_Class {
+    left: 1060.823px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 35px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chx_Class {
+    left: 1332.563px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chy_Class {
+    left: 1229.127px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chz_Class {
+    left: 1126.566px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.header_tab span {
+    font-family: GenYoGothic-M;
+}
+
+.header_tab:hover {
+    cursor: pointer;
+}
+
+.header_tab:hover {
+    color: rgba(246, 201, 77, 1);
+}
+
+.Path_2535_Class {
+    opacity: 0.609;
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2535 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    overflow: visible;
+    position: absolute;
+    width: 140.637px;
+    height: 128.129px;
+    left: 1104.308px;
+    top: 91.36px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_ch_Class {
+    left: 1120px;
+    top: 131.363px;
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 20px;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(95, 106, 119, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_cia_Class {
+    left: 1120px;
+    top: 158.537px;
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 20px;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(95, 106, 119, 1);
+    font-family: GenYoGothic-M;
+}
+
+.EN_Class {
+    left: 1660px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_ce_Class {
+    left: 1695px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_cfa_Class {
+    left: 1740px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic JP;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
 }

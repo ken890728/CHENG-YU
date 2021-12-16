@@ -36835,10 +36835,10 @@ input::placeholder {
     width: 219px;
     height: 20px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1);
 }
 
@@ -38108,9 +38108,9 @@ input::placeholder {
 
 #n_377_cfe {
     position: absolute;
-    width: 550.428px;
+    width: 405px;
     height: 653.361px;
-    left: 960px;
+    left: 1104.5px;
     top: 1623.64px;
     overflow: visible;
 }
@@ -38130,7 +38130,7 @@ input::placeholder {
     overflow: visible;
     width: 331.644px;
     height: 104px;
-    left: 915.134px;
+    left: 1030px;
     top: 1676.346px;
 }
 
@@ -38144,10 +38144,10 @@ input::placeholder {
     line-height: 19px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-B;
     font-style: normal;
-    font-weight: bold;
-    font-size: 13px;
+    font-weight: normal;
+    font-size: 16px;
     color: rgba(50, 50, 50, 1);
     letter-spacing: 0.5px;
 }
@@ -38162,10 +38162,10 @@ input::placeholder {
     line-height: 19px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-B;
     font-style: normal;
-    font-weight: bold;
-    font-size: 13px;
+    font-weight: normal;
+    font-size: 16px;
     color: rgba(50, 50, 50, 1);
     letter-spacing: 0.5px;
 }
@@ -38180,10 +38180,10 @@ input::placeholder {
     line-height: 19px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-B;
     font-style: normal;
-    font-weight: bold;
-    font-size: 13px;
+    font-weight: normal;
+    font-size: 16px;
     color: rgba(50, 50, 50, 1);
     letter-spacing: 0.5px;
 }
@@ -38198,10 +38198,10 @@ input::placeholder {
     line-height: 20px;
     margin-top: -4px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 15px;
     color: rgba(50, 50, 50, 1);
     letter-spacing: 0.5px;
 }
@@ -38216,10 +38216,10 @@ input::placeholder {
     line-height: 20px;
     margin-top: -4px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 15px;
     color: rgba(50, 50, 50, 1);
     letter-spacing: 0.5px;
 }
@@ -38234,16 +38234,16 @@ input::placeholder {
     line-height: 20px;
     margin-top: -4px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 15px;
     color: rgba(50, 50, 50, 1);
     letter-spacing: 0.5px;
 }
 
 #Join_Our_Company {
-    left: 967.132px;
+    left: 1082.86px;
     top: 1709.926px;
     position: absolute;
     overflow: visible;
@@ -38285,7 +38285,7 @@ input::placeholder {
     width: 2.991px;
     height: 45.26px;
     left: 416.628px;
-    top: 839.386px;
+    top: 830.386px;
 }
 
 #n_383_cfp {
@@ -38303,7 +38303,7 @@ input::placeholder {
 
 #Text_cfq {
     left: 442.591px;
-    top: 846.016px;
+    top: 832.016px;
     position: absolute;
     overflow: visible;
     width: 133px;
@@ -38312,7 +38312,7 @@ input::placeholder {
     font-family: Calibri;
     font-style: normal;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 26px;
     color: rgba(50, 50, 50, 1);
 }
 
@@ -38327,23 +38327,21 @@ input::placeholder {
     font-family: Calibri;
     font-style: normal;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 26px;
     color: rgba(50, 50, 50, 1);
 }
 
 #JOHN_WON_CHEMICAL_INDUSTRY_LTD {
     left: 434px;
-    top: 2197.416px;
+    top: 2168px;
     position: absolute;
     overflow: visible;
-    width: 498.784px;
-    height: 79.584716796875px;
+    width: 665px;
+    height: 95px;
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
     font-style: normal;
-    font-weight: bold;
     font-size: 14px;
     color: rgba(95, 106, 119, 1);
     letter-spacing: 0.5px;
@@ -38354,32 +38352,28 @@ input::placeholder {
     top: 2086.142px;
     position: absolute;
     overflow: visible;
-    width: 498.784px;
-    height: 99.584716796875px;
+    width: 652px;
+    height: 63px;
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
     font-style: normal;
-    font-weight: bold;
     font-size: 14px;
     color: rgba(95, 106, 119, 1);
     letter-spacing: 0.5px;
 }
 
 #n__0226733998_186292 {
-    left: 707.694px;
+    left: 741px;
     top: 1957.927px;
     position: absolute;
     overflow: hidden;
-    width: 213.784px;
-    height: 96.90423583984375px;
+    width: 280px;
+    height: 110px;
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
     font-style: normal;
-    font-weight: bold;
     font-size: 14px;
     color: rgba(95, 106, 119, 1);
     letter-spacing: 0.5px;
@@ -38390,14 +38384,12 @@ input::placeholder {
     top: 1957.927px;
     position: absolute;
     overflow: visible;
-    width: 219.92px;
-    height: 100.904296875px;
+    width: 244px;
+    height: 113px;
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
     font-style: normal;
-    font-weight: bold;
     font-size: 14px;
     color: rgba(95, 106, 119, 1);
     letter-spacing: 0.5px;
@@ -38408,14 +38400,12 @@ input::placeholder {
     top: 1845.338px;
     position: absolute;
     overflow: hidden;
-    width: 392.784px;
-    height: 76.27972412109375px;
+    width: 503px;
+    height: 79.27972412109375px;
     line-height: 20px;
     margin-top: -3px;
     text-align: left;
-    font-family: GenYoGothic TW;
     font-style: normal;
-    font-weight: bold;
     font-size: 14px;
     color: rgba(95, 106, 119, 1);
     letter-spacing: 0.5px;
@@ -38615,7 +38605,7 @@ input::placeholder {
 }
 
 #Contact_US {
-    left: 539.867px;
+    left: 531px;
     top: 1293.467px;
     position: absolute;
     overflow: visible;
@@ -38632,7 +38622,7 @@ input::placeholder {
 }
 
 #n_ {
-    left: 539.867px;
+    left: 531px;
     top: 1345.102px;
     position: absolute;
     overflow: visible;
@@ -38641,10 +38631,10 @@ input::placeholder {
     line-height: 20px;
     margin-top: -3.5px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 13px;
+    font-size: 18px;
     color: rgba(95, 106, 119, 1);
     letter-spacing: 0.5px;
 }
@@ -38756,7 +38746,7 @@ input::placeholder {
 
 #Text_cgi {
     left: 1141.905px;
-    top: 1118.479px;
+    top: 1109.479px;
     position: absolute;
     overflow: visible;
     width: 37px;
@@ -38784,9 +38774,84 @@ input::placeholder {
     color: rgba(95, 106, 119, 1);
 }
 
+#Text_cgja {
+    left: 594.12px;
+    top: 1115.71px;
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(95, 106, 119, 1);
+}
+
+#Text_cgjb {
+    left: 695.62px;
+    top: 1094.87px;
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(95, 106, 119, 1);
+}
+
+#Text_cgjc {
+    left: 1000.86px;
+    top: 1117.21px;
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(95, 106, 119, 1);
+}
+
+#Text_cgjd {
+    left: 1122.86px;
+    top: 1165.92px;
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(95, 106, 119, 1);
+}
+
+#Text_cgje {
+    left: 1156.21px;
+    top: 1191.86px;
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(95, 106, 119, 1);
+}
+
 #Text_cgk {
-    left: 714.889px;
-    top: 1076.274px;
+    left: 739.62px;
+    top: 1058.86px;
     position: absolute;
     overflow: visible;
     width: 37px;
@@ -38866,6 +38931,51 @@ input::placeholder {
     height: 51.469px;
     left: 591.938px;
     top: 1054.322px;
+    overflow: visible;
+}
+
+#n_358_cgqa {
+    position: absolute;
+    width: 30.962px;
+    height: 51.469px;
+    left: 622.9px;
+    top: 1075.86px;
+    overflow: visible;
+}
+
+#n_358_cgqb {
+    position: absolute;
+    width: 30.962px;
+    height: 51.469px;
+    left: 669.77px;
+    top: 1058.36px;
+    overflow: visible;
+}
+
+#n_358_cgqc {
+    position: absolute;
+    width: 30.962px;
+    height: 51.469px;
+    left: 1035.65px;
+    top: 1090.16px;
+    overflow: visible;
+}
+
+#n_358_cgqd {
+    position: absolute;
+    width: 30.962px;
+    height: 51.469px;
+    left: 1161px;
+    top: 1126.98px;
+    overflow: visible;
+}
+
+#n_358_cgqe {
+    position: absolute;
+    width: 30.962px;
+    height: 51.469px;
+    left: 1183.71px;
+    top: 1156.98px;
     overflow: visible;
 }
 
@@ -39003,7 +39113,7 @@ input::placeholder {
     width: 30.962px;
     height: 51.469px;
     left: 1146.115px;
-    top: 1067.01px;
+    top: 1058.01px;
     overflow: visible;
 }
 
@@ -39323,4 +39433,198 @@ input::placeholder {
 #n__ a {
     color: rgba(167, 165, 165, 1) !important;
     text-decoration: none;
+}
+
+.Text_chv_Class {
+    left: 1436px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chw_Class {
+    left: 1060.823px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 35px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chx_Class {
+    left: 1332.563px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chy_Class {
+    left: 1229.127px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chz_Class {
+    left: 1126.566px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.header_tab span {
+    font-family: GenYoGothic-M;
+}
+
+.header_tab:hover {
+    cursor: pointer;
+}
+
+.header_tab:hover {
+    color: rgba(246, 201, 77, 1);
+}
+
+.Path_2535_Class {
+    opacity: 0.609;
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2535 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    overflow: visible;
+    position: absolute;
+    width: 140.637px;
+    height: 128.129px;
+    left: 1104.308px;
+    top: 91.36px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_ch_Class {
+    left: 1120px;
+    top: 131.363px;
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 20px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(95, 106, 119, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_cia_Class {
+    left: 1120px;
+    top: 158.537px;
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 20px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(95, 106, 119, 1);
+    font-family: GenYoGothic-M;
+}
+
+.EN_Class {
+    left: 1660px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_ce_Class {
+    left: 1695px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_cfa_Class {
+    left: 1740px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.company-block .company-title {
+    font-family: GenYoGothic-B;
+    font-size: 18px;
+    color: #5F6A77;
+}
+
+.company-block:hover .company-title {
+    color: #00525E;
+}
+
+.company-block .company-des {
+    font-family: GenYoGothic-R;
+    font-size: 16px;
+    color: #5F6A77;
 }

@@ -122,7 +122,7 @@
     top: 545px;
     position: absolute;
     overflow: visible;
-    width: 281px;
+    width: fit-content;
     height: 20px;
     text-align: left;
     font-family: GenYoGothic-R;
@@ -2217,7 +2217,7 @@
     width: 69px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
@@ -2232,7 +2232,7 @@
     width: 35px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
@@ -2247,7 +2247,7 @@
     width: 69px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
@@ -2262,7 +2262,7 @@
     width: 69px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
@@ -2277,7 +2277,7 @@
     width: 69px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
     font-size: 17px;
@@ -2320,7 +2320,6 @@
     width: 90px;
     height: 20px;
     text-align: left;
-    font-family: GenYoGothic JP;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -2336,7 +2335,6 @@
     width: 90px;
     height: 20px;
     text-align: left;
-    font-family: GenYoGothic JP;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -2352,7 +2350,6 @@
     width: 20px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -2368,7 +2365,6 @@
     width: 31px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -2384,7 +2380,6 @@
     width: 31px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;

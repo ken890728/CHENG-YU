@@ -14,6 +14,7 @@
     padding: 0;
     box-sizing: border-box;
     border: none;
+    text-decoration: none;
 }
 
 #Web_1920__6 {
@@ -1154,16 +1155,16 @@
     width: 179px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 22px;
     color: rgba(167, 165, 165, 1);
 }
 
 #n__ {
-    left: 416px;
-    top: 728px;
+    left: 538px;
+    top: 733px;
     position: absolute;
     overflow: visible;
     width: 518px;
@@ -1171,30 +1172,30 @@
     line-height: 39px;
     margin-top: -5px;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 29px;
+    font-size: 30px;
     color: rgba(50, 50, 50, 1);
 }
 
 #n_1_st_Sep_2020 {
-    left: 416px;
-    top: 701.012px;
+    left: 538px;
+    top: 698px;
     position: absolute;
     overflow: visible;
     width: 94px;
     white-space: nowrap;
     text-align: left;
-    font-family: GenYoGothic JP;
+    font-family: GenYoGothic-M;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 22px;
     color: rgba(0, 82, 94, 1);
 }
 
 #n_73__ {
-    left: 416px;
+    left: 538px;
     top: 1240.774px;
     position: absolute;
     overflow: visible;
@@ -1203,28 +1204,28 @@
     line-height: 28px;
     margin-top: -6.5px;
     text-align: left;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 18px;
     color: rgba(50, 50, 50, 1);
     letter-spacing: 1px;
 }
 
 #n_-__ {
-    left: 909px;
+    left: 1070px;
     top: 1783.488px;
-    position: absolute;
+    position: relative;
     overflow: visible;
-    width: 253px;
+    width: 210px;
     height: 47.42919921875px;
     line-height: 20px;
     margin-top: -3px;
     text-align: right;
-    font-family: GenYoGothic TW;
+    font-family: GenYoGothic-R;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 18px;
     color: rgba(167, 165, 165, 1);
     letter-spacing: 0.5px;
 }
@@ -1746,56 +1747,6 @@
     transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
-#n_GORE-TEX {
-    left: 1310.71px;
-    top: 813.665px;
-    position: absolute;
-    overflow: visible;
-    width: 106px;
-    white-space: nowrap;
-    line-height: 21px;
-    margin-top: -2.5px;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    color: rgba(50, 50, 50, 1);
-}
-
-#Text_en {
-    left: 1310.71px;
-    top: 869.744px;
-    position: absolute;
-    overflow: hidden;
-    width: 167.888px;
-    height: 60.46774291992188px;
-    line-height: 20px;
-    margin-top: -3px;
-    text-align: left;
-    font-family: GenYoGothic TW;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    color: rgba(167, 165, 165, 1);
-    letter-spacing: 0.5px;
-}
-
-#n_1_st_Sep_2020_eo {
-    left: 1310.71px;
-    top: 791.574px;
-    position: absolute;
-    overflow: visible;
-    width: 48px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: GenYoGothic JP;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 12px;
-    color: rgba(0, 82, 94, 1);
-}
-
 #n_ {
     left: 1310.71px;
     top: 994.438px;
@@ -1960,21 +1911,16 @@
 }
 
 #n_333 {
-    position: absolute;
-    width: 363.372px;
-    height: 520.967px;
-    left: 416px;
-    top: 800.574px;
+    width: 360px;
+    height: 380px;
     overflow: visible;
 }
 
 #n_384 {
-    position: absolute;
-    width: 370.118px;
-    height: 382.883px;
-    left: 790.882px;
-    top: 800.574px;
+    width: 360px;
+    height: 380px;
     overflow: visible;
+    margin-left: 20px;
 }
 
 #Text_e {
@@ -2283,4 +2229,285 @@
     outline: none;
     text-decoration: none;
     color: rgba(95, 106, 119, 1);
+}
+
+.Text_chv_Class {
+    left: 1436px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chw_Class {
+    left: 1060.823px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 35px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chx_Class {
+    left: 1332.563px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chy_Class {
+    left: 1229.127px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.Text_chz_Class {
+    left: 1126.566px;
+    top: 55.1px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(248, 248, 248, 1);
+}
+
+.header_tab span {
+    font-family: GenYoGothic-M;
+}
+
+.header_tab:hover {
+    cursor: pointer;
+}
+
+.header_tab:hover {
+    color: rgba(246, 201, 77, 1);
+}
+
+.Path_2535_Class {
+    opacity: 0.609;
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2535 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    overflow: visible;
+    position: absolute;
+    width: 140.637px;
+    height: 128.129px;
+    left: 1104.308px;
+    top: 91.36px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_ch_Class {
+    left: 1120px;
+    top: 131.363px;
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 20px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(95, 106, 119, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_cia_Class {
+    left: 1120px;
+    top: 158.537px;
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 20px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(95, 106, 119, 1);
+    font-family: GenYoGothic-M;
+}
+
+.EN_Class {
+    left: 1660px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_ce_Class {
+    left: 1695px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.Text_cfa_Class {
+    left: 1740px;
+    top: 57.1px;
+    position: absolute;
+    overflow: visible;
+    width: 31px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(248, 248, 248, 1);
+    font-family: GenYoGothic-M;
+}
+
+.left-tab-block {
+    left: 265px;
+    top: 855.736px;
+    position: absolute;
+    overflow: visible;
+    width: fit-content;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.left-tab-block a {
+    text-decoration: none;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(167, 165, 165, 1);
+}
+
+.left-tab-block .left-tab.active,
+.left-tab-block .left-subtab.active {
+    color: rgba(50, 50, 50, 1);
+}
+
+.left-tab-block .left-tab,
+.left-tab-block .left-subtab {
+    margin-top: 20px;
+    line-height: 24px;
+}
+
+.left-tab-block .left-subtab {
+    margin-left: 38px;
+}
+
+.img_block {
+    position: absolute;
+    left: 538px;
+    top: 800.574px;
+    overflow: visible;
+}
+
+.other-news-block {
+    position: absolute;
+    top: 790px;
+    left: 1440px;
+    width: 215px;
+    padding: 0 20px;
+}
+
+.other-news-date {
+    white-space: nowrap;
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0, 82, 94, 1);
+}
+
+.other-news-title {
+    text-align: left;
+    font-family: GenYoGothic-M;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(50, 50, 50, 1);
+    margin-top: 5px;
+}
+
+.other-news-des {
+    overflow: hidden;
+    line-height: 20px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: GenYoGothic-R;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(167, 165, 165, 1);
+    letter-spacing: 0.5px;
+    height: 62px;
+    margin-top: 7px;
+}
+
+.other-news-line {
+    overflow: visible;
+    width: 215.65px;
+    height: 1px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    margin: 20px -20px;
+}
+
+.other-news-linein {
+    opacity: 0.386;
+    fill: transparent;
+    stroke: rgba(5, 5, 5, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
 }

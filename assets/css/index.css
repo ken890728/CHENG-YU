@@ -39839,9 +39839,8 @@ a {
     width: 123px;
     white-space: nowrap;
     text-align: right;
-    font-family: Calibri;
+    font-family: Calibri-B;
     font-style: normal;
-    font-weight: bold;
     font-size: 25px;
     color: rgba(0, 82, 94, 1);
 }
@@ -39873,10 +39872,10 @@ a {
     width: 293px;
     white-space: nowrap;
     text-align: right;
-    font-family: GenYoGothic TW;
     font-style: normal;
     font-weight: normal;
     font-size: 35px;
+    line-height: 45px;
     color: rgba(0, 82, 94, 1);
     letter-spacing: 0.5px;
     font-family: GenYoGothic-M;
@@ -39975,9 +39974,8 @@ a {
     width: 97px;
     white-space: nowrap;
     text-align: center;
-    font-family: Calibri;
+    font-family: Calibri-B;
     font-style: normal;
-    font-weight: bold;
     font-size: 25px;
     color: rgba(0, 82, 94, 1);
 }
@@ -40011,7 +40009,7 @@ a {
 
 .Text_cij_Class {
     left: 41.163px;
-    top: -2px;
+    top: 2px;
     position: absolute;
     overflow: visible;
     width: 50px;
@@ -40068,7 +40066,7 @@ a {
     width: 90.163px;
     height: 32px;
     left: 129px;
-    top: 0px;
+    top: 2px;
     overflow: visible;
 }
 
@@ -40094,7 +40092,7 @@ a {
     width: 29.582px;
     height: 29.369px;
     left: 0px;
-    top: 2px;
+    top: 0px;
     overflow: visible;
 }
 
@@ -40131,7 +40129,7 @@ a {
     width: 90.163px;
     height: 32px;
     left: 258px;
-    top: 1px;
+    top: 2px;
     overflow: visible;
 }
 
@@ -40157,7 +40155,7 @@ a {
     width: 29.582px;
     height: 29.369px;
     left: 0px;
-    top: 2px;
+    top: 0px;
     overflow: visible;
 }
 
@@ -40194,7 +40192,7 @@ a {
     width: 88.538px;
     height: 32px;
     left: 386px;
-    top: 1px;
+    top: 2px;
     overflow: visible;
 }
 
@@ -40220,7 +40218,7 @@ a {
     width: 29.582px;
     height: 29.369px;
     left: 0px;
-    top: 2px;
+    top: 0px;
     overflow: visible;
 }
 
@@ -40275,7 +40273,7 @@ a {
     width: 29.582px;
     height: 29.369px;
     left: 0px;
-    top: 2px;
+    top: 0px;
     overflow: visible;
 }
 
