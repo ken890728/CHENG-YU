@@ -37,3 +37,13 @@
     font-family: HelveticaNeue-B;
     src: url(./fonts/HelveticaNeue-B.ttf);
 }
+
+@font-face {
+    font-family: Calibri;
+    src: url(./fonts/calibri.ttf);
+}
+
+@font-face {
+    font-family: Calibri-B;
+    src: url(./fonts/calibrib.ttf);
+}
