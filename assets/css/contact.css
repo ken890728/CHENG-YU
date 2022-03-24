@@ -39543,9 +39543,9 @@ input::placeholder {
     top: 131.363px;
     position: absolute;
     overflow: visible;
-    width: 90px;
+    width: 100px;
     height: 20px;
-    text-align: left;
+    text-align: center;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -39558,9 +39558,9 @@ input::placeholder {
     top: 158.537px;
     position: absolute;
     overflow: visible;
-    width: 90px;
+    width: 100px;
     height: 20px;
-    text-align: left;
+    text-align: center;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
