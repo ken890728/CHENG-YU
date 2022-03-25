@@ -49,13 +49,12 @@ a {
 
 .Text_ch_Class {
     left: 1120px;
-    top: 131.363px;
+    top: 135px;
     position: absolute;
     overflow: visible;
     width: 100px;
     height: 20px;
     text-align: center;
-    font-family: GenYoGothic JP;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -65,13 +64,12 @@ a {
 
 .Text_cia_Class {
     left: 1120px;
-    top: 158.537px;
+    top: 165px;
     position: absolute;
     overflow: visible;
     width: 100px;
     height: 20px;
     text-align: center;
-    font-family: GenYoGothic JP;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
